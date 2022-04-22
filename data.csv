@@ -1,0 +1,16 @@
+Date,Day,Month,Year,Customer_Age,Age_Group,Customer_Gender,Country,State,Product_Category,Sub_Category,Product,Order_Quantity,Unit_Cost,Unit_Price,Profit,Cost,Revenue
+26-11-2019,26,November,2019,19,Youth (<25),M,India,Maharashtra,Electronics,Headphones,Noise - 4-Headphones,8,50,120,560,360,950
+26-11-2019,26,November,2019,19,Youth (<25),M,India,Uttar Pradesh,Electronics,Speaker,Sony - 3-Speaker,8,45,130,680,360,950
+23-03-2020,23,March,2020,49,Adults (35-64),M,India,Madhya Pradesh,Groceries,Maggie,Maggie - 40-Maggie,23,34,125,2714,1035,2401
+23-03-2021,23,March,2021,49,Adults (35-64),M,India,Karnataka,Skin care,Ponds,Ponds facewash - 4-facewash,20,67,150,1188,900,2088
+15-05-2018,15,May,2018,47,Adults (35-64),F,India,Andhra Pradesh,Skin care,Deodrant,Park avenue - 10-deodrant,4,55,170,238,180,418
+15-05-2020,15,May,2020,47,Adults (35-64),F,India,Maharashtra,Electronics,earbuds,Boat - 15-earbuds,5,76,153,297,225,522
+22-05-2021,22,May,2021,47,Adults (35-64),F,India,Uttar Pradesh,Groceries,Haldiram,Aloo bhujia - 8-Aloo bhujia,4,34,127,199,180,379
+22-05-2019,22,May,2019,47,Adults (35-64),F,India,Karnataka,Skin care,Soap,Dove - 4-Soap,2,54,167,100,90,190
+22-02-2020,22,February,2020,35,Adults (35-64),M,India,Rajasthan,Electronics,Laptop,Lenovo - 3-Laptop,22,44,177,1096,990,2086
+27-04-2018,27,April,2018,54,Adults (35-64),F,India,Delhi,Skin care,Deodrant,Nivea - 14-deorant,4,57,160,300,180,450
+16-08-2020,16,August,2020,20,Youth (<25),F,India,Maharashtra,Electronics,speakers,JBL - 23-Speakers,5,70,112,295,230,550
+28-06-2021,28,June,2021,43,Adults (35-64),M,India,Uttar Pradesh,Groceries,Fruit Juice,Real Juice - 8-Real Juice,8,40,135,220,200,400
+19-05-2019,19,May,2019,50,Adults (35-64),M,India,Karnataka,Skin care,Shampoo,Loreal - 4-Shampoo,5,59,148,100,90,210
+07-02-2020,7,February,2020,22,Youth (<25),M,India,Rajasthan,Electronics,Laptop,Hp - 7-Laptop,25,49,119,1100,970,2100
+30-03-2020,30,March,2020,49,Adults (35-64),M,India,Madhya Pradesh,Groceries,Coffee,Nescafe - 30-Nescafe,28,42,154,1466,1075,2403
